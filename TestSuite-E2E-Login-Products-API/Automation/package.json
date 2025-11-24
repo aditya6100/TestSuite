@@ -1,0 +1,21 @@
+{
+  "name": "api-automation-sample",
+  "version": "1.0.0",
+  "description": "A sample API automation project using Jest and Supertest.",
+  "main": "api.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "api",
+    "testing",
+    "jest",
+    "supertest"
+  ],
+  "author": "Gemini",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "supertest": "^6.0.0"
+  }
+}

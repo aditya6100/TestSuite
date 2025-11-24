@@ -4,7 +4,7 @@ A comprehensive End-to-End (E2E) testing suite for a sample Login and Products A
 
 ---
 
-### attractive badges
+### Attractive Badges
 
 ![Tech Stack](https://img.shields.io/badge/tech-Node.js%2C%20Jest%2C%20Supertest-blueviolet)
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
@@ -12,7 +12,22 @@ A comprehensive End-to-End (E2E) testing suite for a sample Login and Products A
 
 ---
 
-## ⭐ Features
+## 📋 Table of Contents
+- [✨ Features](#-features)
+- [💻 Tech Stack](#-tech-stack)
+- [📂 Folder Structure](#-folder-structure)
+- [🚀 Installation & Setup](#-installation--setup)
+- [⚙️ How to Run the Project](#️-how-to-run-the-project)
+- [📝 API Endpoints](#-api-endpoints)
+- [📊 Diagram](#-diagram)
+- [🤔 Use Cases](#-use-cases)
+- [💡 Future Enhancements](#-future-enhancements)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+
+---
+
+## ✨ Features
 
 -   **Complete Test Lifecycle**: Covers test planning, test case design, bug reporting, and test automation.
 -   **API Test Automation**: E2E automated tests for critical API endpoints using Jest and Supertest.
@@ -55,16 +70,6 @@ TestSuite-E2E-Login-Products-API/
 │
 └── README.md
 ```
-
----
-
-## 📸 Screenshots
-
-*This section can be updated with screenshots of test reports, Postman requests, or code snippets.*
-
-| Test Report | Postman Collection |
-| :---: | :---: |
-| `/screenshots/screen1.png` | `/screenshots/screen2.png` |
 
 ---
 
@@ -120,7 +125,7 @@ The following API endpoints are covered in the test suite:
 
 ---
 
-## Diagram
+## 📊 Diagram
 
 This diagram illustrates the basic data flow for the automated testing process.
 
@@ -142,13 +147,6 @@ graph TD
 
 ---
 
-## 🎥 Demo / Live Link
-
--   **Live API Link**: `(Link to your deployed API if available)`
--   **Demo Video**: `(Link to a video walkthrough of the tests running)`
-
----
-
 ## 🤔 Use Cases
 
 This project is a practical example for:
@@ -158,7 +156,7 @@ This project is a practical example for:
 
 ---
 
-## ✨ Future Enhancements
+## 💡 Future Enhancements
 
 -   **CI/CD Integration**: Integrate tests into a CI/CD pipeline (e.g., GitHub Actions).
 -   **Schema Validation**: Add response schema validation to the tests.
